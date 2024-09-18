@@ -1,2 +1,7 @@
 # GameMemory
-Aplicação WEB de um jogo da memoria rodando em um container DOCKER com NGINX
+Aplicação WEB - Jogo da Memoria
+
+# Tecnologias:
+• Javascript
+• Docker
+• Nginx
